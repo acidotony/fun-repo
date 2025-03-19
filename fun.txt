@@ -1,2 +1,3 @@
 Fun Repo
 This is fun repo
+This is a new feature for fun repo
