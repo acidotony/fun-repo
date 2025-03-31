@@ -6,6 +6,12 @@ on:
       - 'releases/**'
     tags:
       - 'v1.*'
+  pull_request:
+    branches:
+      - 'main'
+      - 'pipelines/**'
+
+
 
 jobs:
   filtered:
